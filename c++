@@ -1,1 +1,10 @@
 c++ prpgrams
+1.VISUAL REPRESENTATION OF LINEAR SEARCH ALGORITHM
+
+
+
+
+
+
+
+thank you:)
